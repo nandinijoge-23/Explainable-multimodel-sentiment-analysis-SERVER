@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+textblob
+opencv-python-headless
+numpy
+joblib
+librosa
+pydub
+tensorflow
+python-multipart
