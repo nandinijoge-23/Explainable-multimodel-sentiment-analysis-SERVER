@@ -1,11 +1,10 @@
 fastapi
 uvicorn
 textblob
-opencv-python-headless
-numpy
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
 joblib
 librosa
 pydub
-audioop-lts
-tensorflow
+tensorflow==2.15.1
 python-multipart
