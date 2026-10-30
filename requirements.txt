@@ -6,5 +6,6 @@ numpy
 joblib
 librosa
 pydub
+audioop-lts
 tensorflow
 python-multipart
